@@ -1,0 +1,4 @@
+package: github.com/setekhid/dc-virus
+import:
+- package: github.com/mesos/mesos-go
+  version: ^0.0.2

@@ -1,0 +1,6 @@
+hash: 1c077a6f5cbd08b84da01c9ffffa4866b1810dc4d8269ad60bb6f3800b4492f9
+updated: 2017-03-24T09:22:16.495372146+08:00
+imports:
+- name: github.com/mesos/mesos-go
+  version: 50c845244e186d9d9573f5295343cb97a320bb9c
+testImports: []
